@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Dooley Visual Arts</title>
+		<title>Nate Dooley</title>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 		<script type="text/javascript" src="assets/js/autosize.min.js"></script>
 		<script type="text/javascript" src="assets/js/bowser.js"></script>
@@ -21,7 +21,7 @@
 	    				<rect class="shape" height="60px" width="320" />
 	  				</svg>
 	  				<p class="text-button">
-						Our Work
+						My Work
 					</p>
 				</a>
 				<a class="svg-wrapper" href="#about">
@@ -29,7 +29,7 @@
 	    				<rect class="shape" height="60px" width="320" />
 	  				</svg>
 	  				<p class="text-button">
-						About Us
+						About Me
 					</p>
 				</a>
 				<a class="svg-wrapper" href="#contact">
@@ -102,7 +102,7 @@
 			<div class="about-wrapper">
 				<div class="about-content">
 					<h2>
-						About Us
+						About Me
 					</h2>
 
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -112,7 +112,7 @@
 		<div class="section four" id="contact">
 			<div class="contact-wrapper">
 				<h2 style="font-family:'Lato', sans-serif;font-weight:300;text-align:center;;letter-spacing:2px;color:#363636;padding:70px 70px 0 70px;margin:0">
-					Contact Us
+					Contact Me
 				</h2>
 				<p style="font-family:'Lato';color:#363636;font-size:14px;text-align:center;padding-bottom:55px">Any Questions? Comments? Cries of outrage? Leave 'em below and we'll get back to you as soon as we see 'em.</p>
 				<form class="contact-form" method="post" action="index.php#contact">
