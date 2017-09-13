@@ -74,8 +74,7 @@
 		</div>
 
 		<video class="hero" autoplay muted loop>
-			<source src="assets/videos/574941049.mp4" type="video/mp4" />
-			<source src="assets/videos/574941049.webm" type="video/webm" />
+			<source src="assets/videos/binary.webm" type="video/webm" />
 		</video>
 
 		<div class="section two" id="work">
@@ -105,7 +104,7 @@
 						About Me
 					</h2>
 
-					I'm a Computers and Information Technology major at RIT specializing in Networking and System Administration. I'm a member of the Computer Science House and a top-tier student. 
+					I'm a Computer and Information Technology major at RIT specializing in Networking and System Administration. I'm a member of the Computer Science House and a top-tier student. 
 				</div>
 			</div>
 		</div>
