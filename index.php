@@ -60,9 +60,9 @@
 			</nav>
 
 			<div class="hero-content">
-				<h2 style="margin:27px 0;text-align:center;letter-spacing:2px;text-shadow: 2px 2px 8px black;">
+				<h3 style="margin:27px 0;text-align:center;letter-spacing:2px;text-shadow: 2px 2px 8px black;">
 					Nate Dooley
-				</h2>
+				</h3>
 				<div class="hero-text">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 				</div>
