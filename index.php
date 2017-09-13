@@ -74,7 +74,7 @@
 		</div>
 
 		<video class="hero" autoplay muted loop>
-			<source src="assets/videos/binary.webm" type="video/webm" />
+			<source src="assets/videos/code.webm" type="video/webm" />
 		</video>
 
 		<div class="section two" id="work">
