@@ -55,7 +55,7 @@
 					</span>
 				</button>
 				<a class="cta hire-header" style="float:right;padding:14px 30px;position:absolute;top:0;right:186px" href="#contact">
-					Hire Us
+					Hire Me
 				</a>
 			</nav>
 
@@ -67,7 +67,7 @@
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 				</div>
 				<a class="cta" style="margin: 38px auto !important; display: block; width: 60px; text-shadow: 2px 2px 8px black;" href="#contact">
-					Hire Us
+					Hire Me
 				</a>
 
 			</div>
