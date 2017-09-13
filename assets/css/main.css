@@ -1,0 +1,360 @@
+
+/* PAGE STYLING AND MISC DECLARATIONS */
+
+body {
+    margin: 0;
+    font-family: 'Montserrat';
+    overflow-x: hidden;
+}
+
+.noscroll {
+    overflow: hidden;
+}
+
+.cta {
+    background: transparent;
+    border: 2px solid #fff;
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin: 32px 10px;
+    text-decoration: none;
+}
+
+/* END PAGE STYLING AND MISC DECLARATIONS */
+
+/* HAMBURGER MENU STYLING */
+
+.menu {
+    height: 100vh;
+    width: 100%;
+    background: #161616;
+    position: fixed;
+    left: 100%;
+    transition: all 500ms ease;
+    z-index: 1000;
+    overflow: hidden;
+    text-align: center;
+    display: inline;
+}
+
+.menu-active {
+    left: 0;
+    transition: all 500ms ease, opacity 1ms ease;
+}
+
+.is-active {
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+.menu-wrapper {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.svg-wrapper {
+    height: 60px;
+	margin: 0 auto;
+	padding: 5px 0;
+    width: 320px;
+    display: block;
+    text-decoration: none;
+}
+
+.shape {
+    fill: transparent;
+    stroke-dasharray: 140 540;
+    stroke-dashoffset: -474;
+    stroke-width: 2px;
+    stroke: #19f6e8;
+    -webkit-animation: 0.5s draw-out ease forwards;
+    -moz-animation: 0.5s draw-out ease forwards;
+    -o-animation: 0.5s draw-out ease forwards;
+    animation: 0.5s draw-out ease forwards;
+}
+
+@keyframes draw-in {
+    0% {
+        stroke-dasharray: 140 540;
+        stroke-dashoffset: -474;
+    }
+    100% {
+        stroke-dasharray: 760;
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes draw-out {
+    0% {
+        stroke-dasharray: 760;
+        stroke-dashoffset: 0;
+    }
+    100% {
+        stroke-dasharray: 140 540;
+        stroke-dashoffset: -474;
+    }
+}
+
+.svg-wrapper:hover .shape {
+    -webkit-animation: 0.5s draw-in ease forwards;
+    -moz-animation: 0.5s draw-in ease forwards;
+    -o-animation: 0.5s draw-in ease forwards;
+    animation: 0.5s draw-in ease forwards;
+}
+
+.text:hover, .text:focus {
+    outline: 1px solid #363636 !important;
+}
+
+.text-button {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    letter-spacing: 3px;
+    width: 44%;
+    outline: none;
+    background: transparent;
+    position: relative;
+    top: -64px;
+    text-align: center;
+    margin: 10px auto;
+    border: none;
+    border-radius: 0;
+    padding: 12px;
+}
+
+.text {
+    -webkit-transition: all 150ms linear;
+    -moz-transition: all 150ms linear;
+    -ms-transition: all 150ms linear;
+    -o-transition: all 150ms linear;
+    transition: all 150ms linear;
+    color: #363636;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    margin: 0 0 24px 0;
+    letter-spacing: 1px;
+    width: 44%;
+    outline: 1px solid #D0D0D0;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    padding: 12px;
+}
+
+textarea {
+    width: calc(100% - 24px) !important;
+    overflow: auto;
+    text-align: justify;
+    min-height: 120px;
+}
+
+.copyright {
+    color: #333;
+    font-size: 0.6em;
+    letter-spacing: 2px;
+    margin: 40px 0;
+}
+
+/* END HAMBURGER MENU STYLING */
+
+/* NAVBAR STYLING */
+
+.logo-header {
+    position: absolute;
+    display: inline-block;
+    margin: 28px 58px;
+    z-index: 100;
+}
+
+.header {
+    width: 100%;
+    height: 122px;
+    display: inline;
+}
+
+.hire-header {
+    
+    z-index: 100;
+}
+
+/* END NAVBAR STYLING */
+
+/* CAROUSEL STYLES */
+
+.thumbnail-carousel {
+    overflow: none;
+    height: 240px;
+}
+
+/* END CAROUSEL STYLES */
+
+/* FOOTER STYLES */
+
+.social {
+    background: url(../img/trigrid.png) no-repeat center bottom,
+                url(../img/mountain.jpg) no-repeat center bottom;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 254px;
+}
+
+.social {
+    height: 216px;
+    padding: 19px;
+}
+
+.social-wrapper {
+    margin: 0 auto;
+    width: 636px;
+}
+
+.social-icon {
+    padding: 80px;
+    display: inline-block;
+}
+
+.social-icon svg path {
+    -webkit-transition: fill .3s ease-out;
+    -moz-transition: fill .3s ease-out;
+    -o-transition: fill .3s ease-out;
+    transition: fill .3s ease-out;
+
+}
+
+.v:hover svg path, .t:hover svg path {
+    fill: #5fccff !important;
+}
+
+.fb:hover svg path {
+    fill: #383f87 !important;
+}
+
+.footer {
+    background: #161616;
+    width: 100%;
+    height: 80px;
+}
+
+.copyright-ftr {
+    display: block;
+    width: 100%;
+    line-height: 80px;
+    color: #484848;
+    font-weight: 400;
+    font-size: 0.6em;
+    letter-spacing: 2px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* END FOOTER STYLES */
+
+/* EVERYTHING ELSE */
+
+.one {
+    display: inline;
+}
+
+.two {
+    background: #fff;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.four {
+    background: #fff;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.hero {
+    width: 100%;
+    height: 100%;
+    z-index: -100;
+}
+
+.hero-content {
+    z-index: 100;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 600px;
+    color: white;
+    display: inline;
+}
+
+.hero-text {
+    margin: 20px auto;
+    text-align: justify;
+    font-family: 'Lato', Arial, sans-serif;
+    width: 360px;
+    font-size: 14px;
+    text-shadow: 2px 2px 8px black;
+}
+
+.work-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 180px 100px;
+}
+
+.about-wrapper {
+    width: 100%;
+    height: 400px;
+    background: linear-gradient(rgba(255,255,255,0.2), rgba(255,255,255,0.2)) fixed, url(../img/DSC_5831.jpg) no-repeat center center;             
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.about-content {
+    background: rgba(0,0,0,0.6);
+    width: 600px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    padding: 40px;
+    border: 2px solid white;
+    font-family: 'Lato', Arial, sans-serif;
+}
+
+h2 {
+    font-family: 'Lato', Arial, sans-serif;
+    font-weight: 300;
+    font-size: 2em;
+}
+
+.about-content h2 {
+    margin-top: 50px;
+    margin-bottom: 32px;
+}
+
+.contact-form {
+    width: 100%;
+    padding: 0 0 130px 0;
+}
+
+.counter {
+    color: #585858;
+    display: block;
+    padding: 10px 25px;
+    font-size: 12px;
+}
+
+.contact-wrapper {
+    width: 750px;
+    margin: 0 auto;
+}
