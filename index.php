@@ -84,7 +84,7 @@
 					<div class="col-3-12" style="height:240px;vertical-align:middle">
 						<div style="height:40px"></div>
 						<h2 style="margin:27px 0;letter-spacing:2px;color:#363636">
-							Not Sold Yet?
+							My Projects
 						</h2>
 						<p style="color:#363636;font-weight:300;font-size:12px">
 							We're shocked. Oh well, here are some of our favorite pieces, sure to win you over.
@@ -105,7 +105,7 @@
 						About Me
 					</h2>
 
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+					I'm a Computers and Information Technology major at RIT specializing in Networking and System Administration. I'm a member of the Computer Science House and a top-tier student. 
 				</div>
 			</div>
 		</div>
