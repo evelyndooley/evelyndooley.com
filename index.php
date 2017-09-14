@@ -182,7 +182,7 @@
 			</div>
 		</div>
 		<div class="footer">
-			<div class="copyright-ftr">&copy; 2017 Nate Dooley | All Rights Reserved | Website by Andrew Robinson</div>
+			<div class="copyright-ftr">&copy; 2017 Nate Dooley | All Rights Reserved | Website in collaboration with Andrew Robinson</div>
 		</div>
 
 		<script>
