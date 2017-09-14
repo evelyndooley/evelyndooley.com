@@ -73,6 +73,14 @@
 				<a class="cta" style="margin: 38px auto !important; display: block; width: 60px; text-shadow: 2px 2px 8px black;" href="#contact">
 					Hire Me
 				</a>
+				<a class="svg-wrapper" href="#about">
+	  				<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
+	    				<rect class="shape" height="60px" width="320" />
+	  				</svg>
+	  				<p class="text-button">
+						About Me
+					</p>
+				</a>
 
 			</div>
 		</div>
