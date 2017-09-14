@@ -290,6 +290,7 @@ textarea {
     color: white;
     display: inline;
     background-color: black;
+    opacity: 20%;
 }
 
 .hero-text {
