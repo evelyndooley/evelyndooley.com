@@ -63,6 +63,7 @@
 				<h2 style="margin:27px 0;text-align:center;letter-spacing:2px;text-shadow: 2px 2px 8px black;font-size: 48px">
 					Nate Dooley
 				</h2>
+				<img class="circular--square" src="assets/img/nate.jpg" />
 				<div class="hero-text">
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 				</div>
