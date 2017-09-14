@@ -360,7 +360,7 @@ h2 {
 }
 .circular--square {
   border-radius: 50%;
-  width: 25%;
-  height: 25%;
-  margin:auto;
+  width: 45%;
+  height: 45%;
+  margin: auto;
 }
