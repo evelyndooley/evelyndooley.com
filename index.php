@@ -66,7 +66,7 @@
 				<img class="circular--square" src="assets/img/nate.jpg" />
 				<div class="hero-text">
 					Rochester Institute of Technology 
-					<br> B.S. Computing and Information Technologies '22 
+					<hr> B.S. Computing and Information Technologies '22 
 				<a class="cta" style="margin: 38px auto !important; display: block; width: 60px; text-shadow: 2px 2px 8px black;" href="#contact">
 					Hire Me
 				</a>
