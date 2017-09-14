@@ -293,7 +293,7 @@ textarea {
 
 .hero-text {
     margin: 20px auto;
-    text-align: justify;
+    text-align: center;
     font-family: 'Lato', Arial, sans-serif;
     width: 360px;
     font-size: 14px;
