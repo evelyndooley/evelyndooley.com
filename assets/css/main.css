@@ -363,4 +363,6 @@ h2 {
   width: 35%;
   height: 35%;
   margin: auto;
+  display: block;
+
 }
