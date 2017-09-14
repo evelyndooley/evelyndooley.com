@@ -289,8 +289,7 @@ textarea {
     width: 600px;
     color: white;
     display: inline;
-    background-color: black;
-    opacity: 20%;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .hero-text {
