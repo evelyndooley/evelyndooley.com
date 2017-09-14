@@ -54,9 +54,6 @@
 						<span class="hamburger-inner"></span>
 					</span>
 				</button>
-				<a class="cta hire-header" style="float:right;padding:14px 30px;position:absolute;top:0;right:186px" href="#contact">
-					Hire Me
-				</a>
 			</nav>
 
 			<div class="hero-content">
@@ -70,12 +67,9 @@
 					B.S. Computing and Information Technologies '22 
 					<hr>
 					Computer Science House active member
-				<a class="cta" style="margin: 38px auto !important; display: block; width: 60px; text-shadow: 2px 2px 8px black;" href="#contact">
-					Hire Me
-				</a>
 				<a class="svg-wrapper" href="#about">
-	  				<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
-	    				<rect class="shape" height="60px" width="320" />
+	  				<svg height="40" width="220" xmlns="http://www.w3.org/2000/svg">
+	    				<rect class="shape" height="40px" width="220" />
 	  				</svg>
 	  				<p class="text-button">
 						About Me
