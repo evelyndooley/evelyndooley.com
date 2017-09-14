@@ -67,7 +67,7 @@
 					B.S. Computing and Information Technologies '22 
 					<hr>
 					Computer Science House active member
-					<br>
+					<br><br>
 				<a class="svg-wrapper" href="#about">
 	  				<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
 	    				<rect class="shape" height="60px" width="320" />
