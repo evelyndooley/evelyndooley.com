@@ -70,7 +70,7 @@
 					<br><br>
 				<a class="svg-wrapper" href="#about">
 	  				<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
-	    				<rect class="shape" height="60px" width="320" />
+	    				<rect class="shape2" height="60px" width="320" />
 	  				</svg>
 	  				<p class="text-button">
 						About Me

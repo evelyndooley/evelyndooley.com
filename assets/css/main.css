@@ -79,6 +79,18 @@ body {
     animation: 0.5s draw-out ease forwards;
 }
 
+.shape2 {
+    fill: transparent;
+    stroke-dasharray: 140 540;
+    stroke-dashoffset: -474;
+    stroke-width: 2px;
+    stroke: #fff;
+    -webkit-animation: 0.5s draw-out ease forwards;
+    -moz-animation: 0.5s draw-out ease forwards;
+    -o-animation: 0.5s draw-out ease forwards;
+    animation: 0.5s draw-out ease forwards;
+}
+
 @keyframes draw-in {
     0% {
         stroke-dasharray: 140 540;
