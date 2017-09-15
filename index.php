@@ -21,7 +21,7 @@
 	    				<rect class="shape" height="60px" width="320" />
 	  				</svg>
 	  				<p class="text-button">
-						My Work
+						My Resume
 					</p>
 				</a>
 				<a class="svg-wrapper svg-wrapper-hamburger" href="#about">
@@ -68,12 +68,12 @@
 					<hr>
 					Computer Science House active member
 					<br><br>
-				<a class="svg-wrapper" href="#about">
+				<a class="svg-wrapper" href="#work">
 	  				<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
 	    				<rect class="shape2" height="60px" width="320" />
 	  				</svg>
 	  				<p class="text-button">
-						About Me
+						View My Resume
 					</p>
 				</a>
 
@@ -90,11 +90,12 @@
 					<div class="col-3-12" style="height:240px;vertical-align:middle">
 						<div style="height:40px"></div>
 						<h2 style="margin:27px 0;letter-spacing:2px;color:#363636">
-							My Projects
+							My Resume
 						</h2>
 						<p style="color:#363636;font-weight:300;font-size:12px">
-							We're shocked. Oh well, here are some of our favorite pieces, sure to win you over.
+							A detailed list of my education, experiences, and qualifications.
 						</p>
+						<img src="assets/img/resume.png" style="left:20%;"></img>
 					</div>
 					<div class="col-9-12">
 						<div class="thumbnail-carousel">
