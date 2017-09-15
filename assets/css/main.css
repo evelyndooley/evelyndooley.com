@@ -114,10 +114,10 @@ body {
 }
 
 .svg-wrapper:hover .shape {
-    -webkit-animation: 0.5s draw-in ease forwards;
-    -moz-animation: 0.5s draw-in ease forwards;
-    -o-animation: 0.5s draw-in ease forwards;
-    animation: 0.5s draw-in ease forwards;
+    -webkit-animation: 0.25s draw-in ease forwards;
+    -moz-animation: 0.25s draw-in ease forwards;
+    -o-animation: 0.25s draw-in ease forwards;
+    animation: 0.25s draw-in ease forwards;
 }
 
 .svg-wrapper:hover .shape2 {
