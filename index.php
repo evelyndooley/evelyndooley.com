@@ -97,8 +97,6 @@
 						</p>
 					</div>
 					<img src="assets/img/resume.png" style="left:20%;height:400px;"/>
-						<div class="thumbnail-carousel">
-
 						</div>
 					</div>
 				</div>
