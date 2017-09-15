@@ -120,6 +120,13 @@ body {
     animation: 0.5s draw-in ease forwards;
 }
 
+.svg-wrapper:hover .shape2 {
+    -webkit-animation: 0.5s draw-in ease forwards;
+    -moz-animation: 0.5s draw-in ease forwards;
+    -o-animation: 0.5s draw-in ease forwards;
+    animation: 0.5s draw-in ease forwards;
+}
+
 .text:hover, .text:focus {
     outline: 1px solid #363636 !important;
 }
