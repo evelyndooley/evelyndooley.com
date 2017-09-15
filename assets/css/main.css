@@ -42,7 +42,7 @@ body {
 }
 
 .menu-active {
-    left: 0;
+    left: 70vw;
     transition: all 500ms ease, opacity 1ms ease;
 }
 
