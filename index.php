@@ -16,7 +16,7 @@
 	<body>
 		<div class="menu">
 			<div class="menu-wrapper">
-				<a class="svg-wrapper" class="svg-wrapper-hamburger" href="#work">
+				<a class="svg-wrapper svg-wrapper-hamburger" href="#work">
 	  				<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
 	    				<rect class="shape" height="60px" width="320" />
 	  				</svg>
@@ -24,7 +24,7 @@
 						My Work
 					</p>
 				</a>
-				<a class="svg-wrapper" class="svg-wrapper-hamburger" href="#about">
+				<a class="svg-wrapper svg-wrapper-hamburger" href="#about">
 	  				<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
 	    				<rect class="shape" height="60px" width="320" />
 	  				</svg>
@@ -32,7 +32,7 @@
 						About Me
 					</p>
 				</a>
-				<a class="svg-wrapper" class="svg-wrapper-hamburger" href="#contact">
+				<a class="svg-wrapper svg-wrapper-hamburger" href="#contact">
 	  				<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
 	    				<rect class="shape" height="60px" width="320" />
 	  				</svg>
