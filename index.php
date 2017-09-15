@@ -43,7 +43,7 @@
 				<div class="copyright">Copyright &copy; 2017 Nate Dooley</div>
 			</div>
 		</div>
-		<div class="section one">
+		<div class="section-one">
 			<nav class="header">
 
 				<a href="#!" class="logo-header">
