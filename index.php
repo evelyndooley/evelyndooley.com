@@ -40,11 +40,7 @@
 		window.attachEvent("onload", downloadJSAtOnload);
 		else window.onload = downloadJSAtOnload;
 		</script>
-		<link rel="stylesheet" href="assets/css/main.css" type="text/css" />
-		<link rel="stylesheet" href="assets/css/hamburger.css" type="text/css" />
-		<link rel="stylesheet" href="assets/css/grid.css" type="text/css" />
-		<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-		<link href="https://fonts.googleapis.com/css?family=Lato:400,300" rel="stylesheet">
+
 	</head>
 	<body>
 		<div class="menu">
@@ -254,4 +250,9 @@
 			});
 		</script>
 	</body>
+			<link rel="stylesheet" href="assets/css/main.css" type="text/css" />
+		<link rel="stylesheet" href="assets/css/hamburger.css" type="text/css" />
+		<link rel="stylesheet" href="assets/css/grid.css" type="text/css" />
+		<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+		<link href="https://fonts.googleapis.com/css?family=Lato:400,300" rel="stylesheet">
 </html>
