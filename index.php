@@ -173,7 +173,7 @@
 			<div class="social-wrapper">
 				<a href="https://vimeo.com/marcdooley" class="social-icon v">
 					<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="52px" height="52px" viewBox="0 0 52 52" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	 width="52px" height="52px" viewBox="0 0 52 52" style="enable-background:new 0 0 52 52;" xml:space="preserve">
 	<path d="M256,0C114.615,0,0,114.615,0,256s114.615,256,256,256s256-114.615,256-256S397.385,0,256,0z M408.027,408.027
 		c-19.76,19.759-42.756,35.267-68.354,46.094c-6.502,2.75-13.105,5.164-19.801,7.246V423c0-20.167-6.916-35-20.75-44.5
 		c8.668-0.833,16.625-2,23.875-3.5s14.918-3.667,23-6.5c8.084-2.833,15.334-6.208,21.75-10.125c6.418-3.917,12.584-9,18.5-15.25
