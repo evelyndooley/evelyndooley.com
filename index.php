@@ -96,7 +96,7 @@
 							A detailed list of my education, experiences, and qualifications.
 						</p>
 					</div>
-					<a href="assets/docs/resume.pdf">
+					<a href="assets/docs/Resume.pdf">
 					<img src="assets/img/resume.png" style="left:20%;height:400px;"/>
 					</a>
 						</div>
