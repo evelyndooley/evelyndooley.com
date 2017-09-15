@@ -73,7 +73,7 @@
 	    				<rect class="shape2" height="60px" width="320" />
 	  				</svg>
 	  				<p class="text-button">
-						View My Resume
+						My Resume
 					</p>
 				</a>
 
