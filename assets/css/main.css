@@ -250,13 +250,18 @@ textarea {
 
 }
 
-.v:hover svg path, .t:hover svg path {
+.v:hover svg path {
     fill: #6CC644 !important;
 }
 
 .fb:hover svg path {
     fill: #383f87 !important;
 }
+
+.t:hover svg path {
+    fill: #0077B5 !important;
+}
+
 
 .footer {
     background: #161616;

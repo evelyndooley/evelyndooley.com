@@ -171,7 +171,7 @@
 
 		<div class="social">
 			<div class="social-wrapper">
-				<a href="https://vimeo.com/marcdooley" class="social-icon v">
+				<a href="https://github.com/natedooley" class="social-icon v">
 					<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="52px" height="52px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 	<path d="M256,0C114.615,0,0,114.615,0,256s114.615,256,256,256s256-114.615,256-256S397.385,0,256,0z M408.027,408.027
@@ -195,10 +195,8 @@
     					<path d="m12.7 16.7-2 0 0-4.1 2 0 0-4.3c0.1-1.9 1.6-3.2 3.6-3.2l4.6 0 0 4.1-2.7 0c-0.5 0-0.7 0.2-0.7 0.8l0 2.6 3.4 0-0.7 4.1-2.7 0 0 10.2-4.8 0z" style="fill:#C3C3C3;stroke-width:0.01"/>
 					</svg>
 				</a>
-				<a href="#" class="social-icon t">
-					<svg xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 32 32" width="32">
-						<path d="m3.1 24.7c3.5 0.1 5.6-0.5 7.9-2.3-2.3 0-4.3-1.4-5-3.7 0.6 0.3 1.4 0.1 2.2 0C7.1 18.5 4.2 17.3 4.1 13.5 4.9 13.8 5.7 14.2 6.5 14.2 5.2 13.5 3 10.7 4.7 7.1 7.4 10.5 11.8 12.5 15.7 12.6 14.6 10.3 17 6 20.9 6.1 23 6.2 23.8 7 24.7 7.8 26 7.5 27.1 7 28 6.5 27.6 7.6 27.1 8.7 25.8 9.3L28.9 8.7c-0.6 0.9-1 1.5-2.6 2.7 0.1 3.1-0.8 6.4-2.9 9.4-6.6 8.7-16.5 6.5-20.3 3.8z" style="fill:#c3c3c3;stroke-width:0.01"/>
-					</svg>
+				<a href="https://www.linkedin.com/in/nate-dooley-7850048b/" class="social-icon t">
+					<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" style="fill:#C3C3C3;stroke-width:0.01"/></svg>
 				</a>
 			</div>
 		</div>
