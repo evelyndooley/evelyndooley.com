@@ -95,8 +95,8 @@
 						<p style="color:#363636;font-weight:300;font-size:12px">
 							A detailed list of my education, experiences, and qualifications.
 						</p>
-						<img src="assets/img/resume.png" style="left:20%;height:200px;"/>
 					</div>
+					<img src="assets/img/resume.png" style="left:20%;height:200px;"/>
 					<div class="col-9-12">
 						<div class="thumbnail-carousel">
 
