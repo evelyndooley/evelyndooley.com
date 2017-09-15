@@ -29,11 +29,11 @@ body {
 /* HAMBURGER MENU STYLING */
 
 .menu {
-    height: 800vh;
+    height: 80vh;
     width: 30%;
     background: #161616;
     position: fixed;
-    right: 100%;
+    left: 100%;
     transition: all 500ms ease;
     z-index: 1000;
     overflow: hidden;
