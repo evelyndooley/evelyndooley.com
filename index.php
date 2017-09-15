@@ -79,11 +79,11 @@
 
 			</div>
 		</div>
-
+		<div class="hero-div">
 		<video class="hero" autoplay muted loop>
 			<source src="assets/videos/roc5.webm" type="video/webm" />
 		</video>
-
+		</div>
 		<div class="section two" id="work">
 			<div class="work-container">
 				<div class="grid grid-pad">
