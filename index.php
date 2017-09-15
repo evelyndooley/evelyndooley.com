@@ -28,7 +28,18 @@
 		window.attachEvent("onload", downloadJSAtOnload);
 		else window.onload = downloadJSAtOnload;
 		</script>
-		<script type="text/javascript" src="assets/js/bowser.js"></script>
+		<script type="text/javascript">
+		function downloadJSAtOnload() {
+		var element = document.createElement("script");
+		element.src = "assets/js/bowser.js";
+		document.body.appendChild(element);
+		}
+		if (window.addEventListener)
+		window.addEventListener("load", downloadJSAtOnload, false);
+		else if (window.attachEvent)
+		window.attachEvent("onload", downloadJSAtOnload);
+		else window.onload = downloadJSAtOnload;
+		</script>
 		<link rel="stylesheet" href="assets/css/main.css" type="text/css" />
 		<link rel="stylesheet" href="assets/css/hamburger.css" type="text/css" />
 		<link rel="stylesheet" href="assets/css/grid.css" type="text/css" />
