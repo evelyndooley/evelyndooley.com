@@ -317,7 +317,10 @@ textarea {
     transform: translate(-50%,-50%);
     z-index: -100;
 }
-
+.hero-div {
+    height: 100%;
+    width: 100%;
+}
 .hero-content {
     z-index: 100;
     position: absolute;
