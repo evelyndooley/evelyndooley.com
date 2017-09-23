@@ -290,6 +290,12 @@ textarea {
     font-family: 'Montserrat', sans-serif;
 }
 
+@media (max-width: 675px) {
+    .copyright-ftr {
+        line-height: 30px;
+    }
+}
+
 /* END FOOTER STYLES */
 
 /* EVERYTHING ELSE */
