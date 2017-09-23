@@ -312,11 +312,23 @@ textarea {
 
 
   /* Setting width & height to auto prevents the browser from stretching or squishing the video */
-    width: 100vw;
-    height: auto;
+    width: auto;
+    height: 100vh;
     z-index: -100;
     margin-left: 50%;
     transform: translateX(-50%);
+}
+@media (aspect-ratio 16/9) {
+    .hero {
+    width: 100vw;
+    height: auto; 
+    }
+}
+@media (aspect-ratio 16/9) {
+    .hero {
+    width: 100vw;
+    height: auto; 
+    }
 }
 .hero-div {
     height: 100vh;
