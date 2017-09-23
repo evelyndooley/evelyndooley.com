@@ -44,19 +44,6 @@
 
 	</head>
 	<body>
-		
-		<div class="section one">
-			<nav class="header">
-
-				<a href="#!" class="logo-header">
-					<img src="assets/img/DVA.png" alt="logo"></img>
-				</a>
-				<button class="hamburger hamburger--emphatic" type="button" style="outline:none;z-index:1001;position:absolute;top:0;right:0">
-					<span class="hamburger-box">
-						<span class="hamburger-inner"></span>
-					</span>
-				</button>
-			</nav>
 
 			<div class="hero-content">
 				<h2 style="margin:27px 0;text-align:center;letter-spacing:2px;text-shadow: 2px 2px 8px black;font-size: 48px">
