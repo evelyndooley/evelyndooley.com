@@ -413,7 +413,7 @@ h2 {
 @media (max-width: 1025px) {
     .hero-content {
         width: 400px;
-        top: 512px;
+        top: 200px;
     }
     hr {
         width: 300px;
