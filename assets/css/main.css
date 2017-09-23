@@ -425,6 +425,9 @@ h2 {
     .hero-content {
         width: 400px;
     }
+    .hero-text {
+        width: 400px;
+    }
     hr {
         width: 300px;
     }
