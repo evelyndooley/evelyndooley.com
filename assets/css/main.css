@@ -431,4 +431,7 @@ h2 {
     hr {
         width: 300px;
     }
+    .work-container {
+        padding: 15px;
+    }
 }
