@@ -318,7 +318,7 @@ textarea {
     margin-left: 50%;
     transform: translateX(-50%);
 }
-@media not (aspect-ratio: 15/8) {
+@media (min-aspect-ratio: 15/8) {
     .hero {
     width: 100vw;
     height: auto; 
