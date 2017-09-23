@@ -234,7 +234,7 @@ textarea {
 
 .social-wrapper {
     margin: 0 auto;
-    width: 80vw;
+    width: 636px;
 }
 
 .social-icon {
@@ -243,6 +243,9 @@ textarea {
 }
 
 @media (max-width: 599px) {
+    .social-wrapper {
+        width:80vw;
+    }
     .social-icon {
         padding: 33%;
     }
