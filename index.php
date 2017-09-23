@@ -201,7 +201,8 @@
 
 		<div class="social">
 			<div class="social-wrapper">
-				<a href="https://github.com/natedooley" class="social-icon v">
+				<div class="column-left">
+					<a href="https://github.com/natedooley" class="social-icon v">
 					<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 				width="50px" height="50px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 					<path d="M256,0C114.615,0,0,114.615,0,256s114.615,256,256,256s256-114.615,256-256S397.385,0,256,0z M408.027,408.027
@@ -219,15 +220,21 @@
 					s57.195,5.679,83.676,16.879c25.598,10.827,48.594,26.335,68.354,46.093c19.758,19.758,35.266,42.756,46.092,68.353
 					C465.32,198.805,471,226.957,471,256s-5.68,57.195-16.879,83.675C443.295,365.271,427.785,388.27,408.027,408.027z" style="fill:#c3c3c3;stroke-width:0.01"/>
 					</svg>
-				</a>
-				<a href="#" class="social-icon fb">
+					</a>
+				</div>
+				<div class="column-center">
+					<a href="#" class="social-icon fb">
 					<svg xmlns="http://www.w3.org/2000/svg" height="50" viewBox="0 0 32 32" width="50">
     					<path d="m12.7 16.7-2 0 0-4.1 2 0 0-4.3c0.1-1.9 1.6-3.2 3.6-3.2l4.6 0 0 4.1-2.7 0c-0.5 0-0.7 0.2-0.7 0.8l0 2.6 3.4 0-0.7 4.1-2.7 0 0 10.2-4.8 0z" style="fill:#C3C3C3;stroke-width:0.01"/>
 					</svg>
-				</a>
-				<a href="https://www.linkedin.com/in/nate-dooley-7850048b/" class="social-icon l">
-					<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" style="fill:#C3C3C3;stroke-width:0.01"/></svg>
-				</a>
+					</a>
+				</div>
+				<div class="column-right">
+					<a href="https://www.linkedin.com/in/nate-dooley-7850048b/" class="social-icon l">
+					<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" style="fill:#C3C3C3;stroke-width:0.01"/>
+					</svg>
+					</a>
+				</div>
 			</div>
 		</div>
 		<div class="footer">
