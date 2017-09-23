@@ -313,7 +313,7 @@ textarea {
 
   /* Setting width & height to auto prevents the browser from stretching or squishing the video */
     width: auto;
-    height: auto;
+    height: 100vh;
 
     z-index: -100;
 }
@@ -412,18 +412,15 @@ h2 {
   display: block;
 
 }
-/*@media (max-width: 1281px) {
+@media (max-width: 1281px) {
     .hero-content {
-        top: 350px;
     }
 }
 @media (max-width: 1025px) {
     .hero-content {
         width: 400px;
-        top: 275px;
     }
     hr {
         width: 300px;
     }
 }
-*/
