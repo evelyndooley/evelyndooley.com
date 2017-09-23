@@ -242,6 +242,12 @@ textarea {
     display: inline-block;
 }
 
+@media (max-width: 599px) {
+    .social-icon {
+        padding: 33%;
+    }
+}
+
 .social-icon svg path {
     -webkit-transition: fill .3s ease-out;
     -moz-transition: fill .3s ease-out;
