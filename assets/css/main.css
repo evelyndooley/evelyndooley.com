@@ -409,7 +409,11 @@ h2 {
   display: block;
 
 }
-
+@media (max-width: 1281px) {
+    .hero-content {
+        top: 300px;
+    }
+}
 @media (max-width: 1025px) {
     .hero-content {
         width: 400px;
