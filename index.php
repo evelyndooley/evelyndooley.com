@@ -71,6 +71,7 @@
 		<div class="hero-div">
 		<video class="hero" autoplay muted loop>
 			<source src="assets/videos/roc5.webm" type="video/webm" />
+			<source src="assets/videos/roc6.mp4" type="video/mp4" />
 		</video>
 		</div>
 		<div class="section two" id="work">
