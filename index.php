@@ -69,54 +69,9 @@
 		<div class="section four" id="contact">
 			<div class="contact-wrapper">
 				<h2 style="font-family:'Lato', sans-serif;font-weight:300;text-align:center;;letter-spacing:2px;color:#363636;padding:70px 70px 0 70px;margin:0">
-					Contact Me
+					My Projects
 				</h2>
-				<p style="font-family:'Lato';color:#363636;font-size:14px;text-align:center;padding-bottom:55px">Any Questions? Comments? Cries of outrage? Leave 'em below and we'll get back to you as soon as we see 'em.</p>
-				<form class="contact-form" method="post" action="index.php#contact">
-  					<input class="text" name="name" placeholder="NAME"></input>
-  					<input class="text" name="email" placeholder="EMAIL" style="float:right"></input>
-  					<input class="text" name="subject" placeholder="SUBJECT" style="width:calc(100% - 24px)"></input>
-  					<textarea class="text message" name="message" placeholder="MESSAGE"></textarea>
-  					<input class="text" type="submit" name="submit" value="SUBMIT" style="width:165px;display:block;color:#ababae;margin:0 auto;cursor:pointer"></input>
-				</form>
-
-				<?php
-					if (isset($_POST['submit'])) {
-
-						?>
-
-							<div class="echo" style="padding:100px;font-size:16px;font-family:lato;color:#585858;text-align:center;">
-
-						<?php
-						if (!isset($_POST['name']) ||
-						!isset($_POST['email']) ||
-						!isset($_POST['subject']) ||
-						!isset($_POST['message'])) {
-							echo 'There\'s something wrong with your contact information';
-						} else {
-							$email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
-							$email = $_POST['email'];
-
-							if(!preg_match($email_exp,$email)) {
-								echo 'Your E-Mail address is invalid. Try again.';
-							} else {
-								$headers = 'From: ' . $email . "\r\n" .
-								'Reply-To: ' . $email . "\r\n" .
-								'X-Mailer: PHP/' . phpversion();
-
-								if (mail( 'andrewrobinson615@gmail.com', $_POST['subject'], $_POST['message'], $headers)) {
-									echo 'Sent! We\'ll get back to you as soon as we can!';
-								}
-							}
-						}
-
-						?>
-
-							</div>
-
-						<?php
-					}
-				?>
+				<p style="font-family:'Lato';color:#363636;font-size:14px;text-align:center;padding-bottom:55px">Here are some of the things I've worked on in my spare time.</p>
 			</div>
 		</div>
 
