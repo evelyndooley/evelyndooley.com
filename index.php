@@ -7,16 +7,15 @@
 		<title>Nate Dooley</title>
 	</head>
 	<body>
-
 			<div class="hero-content">
 				<h2 style="margin:27px 0;text-align:center;letter-spacing:2px;text-shadow: 2px 2px 8px black;font-size: 48px">
 					Nate Dooley
 				</h2>
 				<img class="circular--square" src="assets/img/nate.jpg" />
 				<div class="hero-text">
-					Rochester Institute of Technology 
-					<hr> 
-					B.S. Computing and Information Technologies '22 
+					Rochester Institute of Technology
+					<hr>
+					B.S. Computing and Information Technologies '22
 					<hr>
 					Computer Science House active member
 					<br><br>
@@ -64,7 +63,7 @@
 						About Me
 					</h2>
 
-					I'm a Computer and Information Technology major at RIT specializing in Networking and System Administration. I'm a member of the Computer Science House and a top-tier student. 
+					I'm a Computer and Information Technology major at RIT specializing in Networking and System Administration. I'm a member of the Computer Science House and a top-tier student.
 				</div>
 			</div>
 		</div>
