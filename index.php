@@ -55,7 +55,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="section three" style="background: #161616" id="about">
+		<div class="section three"  id="about">
 			<div class="about-wrapper">
 				<div class="about-content">
 					<h2>
