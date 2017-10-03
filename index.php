@@ -27,7 +27,6 @@
 						My Resume
 					</p>
 				</a>
-
 			</div>
 		</div>
 		<div class="hero-div">
