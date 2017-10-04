@@ -84,8 +84,8 @@
 					</div>
 				</div>
 			</div>
+		</div>		
 		</div>
-
 		<div class="social">
 			<div class="social-wrapper">
 				<div class="column-left">
