@@ -72,7 +72,7 @@
 					My Projects
 				</h2>
 				<p style="font-family:'Lato';color:#363636;font-size:14px;text-align:center;padding-bottom:55px">Here are some of the things I've worked on in my spare time.</p>
-				<div class="social-wrapper">
+				<div class="grid grid-pad">
 					<div class="column-1"> 
 						<img src="assets/img/what_is-board.png" />
 					</div>
