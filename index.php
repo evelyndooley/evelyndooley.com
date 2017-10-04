@@ -7,23 +7,23 @@
 		<title>Nate Dooley</title>
 	</head>
 	<body>
-			<div class="hero-content">
-				<h2 style="margin:27px 0;text-align:center;letter-spacing:2px;text-shadow: 2px 2px 8px black;font-size: 48px">
-					Nate Dooley
-				</h2>
-				<img class="circular--square" src="assets/img/nate.jpg" />
-				<div class="hero-text">
-					Rochester Institute of Technology
-					<hr>
-					B.S. Computing and Information Technologies '22
-					<hr>
-					Computer Science House active member
-					<br><br>
+		<div class="hero-content">
+			<h2 style="margin:27px 0;text-align:center;letter-spacing:2px;text-shadow: 2px 2px 8px black;font-size: 48px">
+				Nate Dooley
+			</h2>
+			<img class="circular--square" src="assets/img/nate.jpg" />
+			<div class="hero-text">
+				Rochester Institute of Technology
+				<hr>
+				B.S. Computing and Information Technologies '22
+				<hr>
+				Computer Science House active member
+				<br><br>
 				<a class="svg-wrapper" href="#work">
-	  				<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
-	    				<rect class="shape2" height="60px" width="320" />
-	  				</svg>
-	  				<p class="text-button">
+  					<svg height="60" width="320" xmlns="http://www.w3.org/2000/svg">
+    					<rect class="shape2" height="60px" width="320" />
+  					</svg>
+  					<p class="text-button">
 						My Resume
 					</p>
 				</a>
@@ -50,8 +50,6 @@
 					<a href="assets/docs/Resume.pdf">
 					<img src="assets/img/resume.png" style="left:20%;height:400px;"/>
 					</a>
-						</div>
-					</div>
 				</div>
 			</div>
 		</div>
@@ -84,7 +82,6 @@
 					</div>
 				</div>
 			</div>
-		</div>		
 		</div>
 		<div class="social">
 			<div class="social-wrapper">
