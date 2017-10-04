@@ -77,7 +77,7 @@
 						<img src="assets/img/what_is-board.png" />
 					</div>
 					<div class="column-2"> 
-						<h2 style="font-family:'Lato', sans-serif;font-weight:300;text-align:center;;letter-spacing:2px;color:#363636;padding:70px 70px 0 70px;margin:0">
+						<h2 style="font-family:'Lato', sans-serif;font-weight:300;text-align:center;;letter-spacing:2px;color:#363636;padding:70px 70px 0 20px;margin:0">
 						3D Printed RC Car
 						</h2>
 						<p style="font-family:'Lato';color:#363636;font-size:14px;text-align:center;padding-bottom:55px">A remote controlled car with 3d printed parts and powered by Arduino.</p>
