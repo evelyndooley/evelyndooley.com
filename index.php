@@ -126,42 +126,7 @@
 		<div class="footer">
 			<div class="copyright-ftr">&copy; 2017 Nate Dooley | All Rights Reserved | Website in collaboration with Andrew Robinson</div>
 		</div>
-		<script type="text/javascript">
-			function downloadJSAtOnload() {
-			var element = document.createElement("script");
-			element.src = "assets/js/autosize.min.js";
-			document.body.appendChild(element);
-		}
-			if (window.addEventListener)
-			window.addEventListener("load", downloadJSAtOnload, false);
-			else if (window.attachEvent)
-			window.attachEvent("onload", downloadJSAtOnload);
-			else window.onload = downloadJSAtOnload;
-		</script>
-		<script type="text/javascript">
-			function downloadJSAtOnload() {
-			var element = document.createElement("script");
-			element.src = "https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js";
-			document.body.appendChild(element);
-		}
-			if (window.addEventListener)
-			window.addEventListener("load", downloadJSAtOnload, false);
-			else if (window.attachEvent)
-			window.attachEvent("onload", downloadJSAtOnload);
-			else window.onload = downloadJSAtOnload;
-		</script>
-		<script type="text/javascript">
-			function downloadJSAtOnload() {
-			var element = document.createElement("script");
-			element.src = "assets/js/bowser.js";
-			document.body.appendChild(element);
-		}
-			if (window.addEventListener)
-			window.addEventListener("load", downloadJSAtOnload, false);
-			else if (window.attachEvent)
-			window.attachEvent("onload", downloadJSAtOnload);
-			else window.onload = downloadJSAtOnload;
-		</script>
+
 		<link rel="stylesheet" href="assets/css/main.css" type="text/css" />
 		<link rel="stylesheet" href="assets/css/hamburger.css" type="text/css" />
 		<link rel="stylesheet" href="assets/css/grid.css" type="text/css" />
