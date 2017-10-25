@@ -60,7 +60,7 @@
 						About Me
 					</h2>
 
-					I'm a Computing and Information Technologies major at RIT specializing in Networking and System Administration. I'm a member of the Computer Science House and a top-tier student.
+					I'm a Computing and Information Technologies major at RIT specializing in Enterprise Computing. I'm a member of the Computer Science House and a top-tier student.
 				</div>
 			</div>
 		</div>
