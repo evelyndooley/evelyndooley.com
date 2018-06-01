@@ -5,6 +5,33 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Nate Dooley</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script>
+			$(document).ready(function(){
+			  // Add smooth scrolling to all links
+			  $("a").on('click', function(event) {
+
+			    // Make sure this.hash has a value before overriding default behavior
+			    if (this.hash !== "") {
+			      // Prevent default anchor click behavior
+			      event.preventDefault();
+
+			      // Store hash
+			      var hash = this.hash;
+
+			      // Using jQuery's animate() method to add smooth page scroll
+			      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+			      $('html, body').animate({
+			        scrollTop: $(hash).offset().top
+			      }, 800, function(){
+   
+			        // Add hash (#) to URL when done scrolling (default click behavior)
+			        window.location.hash = hash;
+			      });
+			    } // End if
+			  });
+			});
+		</script>
 	</head>
 	<body>
 		<div class="hero-content">
@@ -76,11 +103,22 @@
 					</div>
 					<div class="column-2"> 
 						<h2 style="font-family:'Lato', sans-serif;font-weight:300;text-align:center;;letter-spacing:2px;color:#363636;padding:0px 70px 0 70px;margin:0">
-						3D Printed RC Car
+						<a href="https://github.com/goddard-bot">Goddard the Robot</a>	
 						</h2>
-						<p style="font-family:'Lato';color:#363636;font-size:14px;text-align:center;padding-bottom:55px">A remote controlled car with 3d printed parts and powered by Arduino.</p>
+						<p style="font-family:'Lato';color:#363636;font-size:14px;text-align:center;padding-bottom:55px">A web controlled robot with a simulated emotional state powered by Arduino.</p>
 					</div>
 				</div>
+                                <div class="grid grid-pad" style="padding-bottom: 50px">
+                                        <div class="column-2">
+                                               <h2 style="font-family:'Lato', sans-serif;font-weight:300;text-align:center;;letter-spacing:2px;color:#363636;padding:0px 70px 0 70px;margin:0">
+                                               <a href="https://github.com/ComputerScienceHouse/profiles">CSH Profiles</a>
+                                               </h2>
+                                               <p style="font-family:'Lato';color:#363636;font-size:14px;text-align:center;padding-bottom:55px">A web application written in Python Flask to view and edit user data stored in anLDAP server.</p>
+                                       </div>
+				       <div class="column-1">
+					      <img src="assets/img/what_is-board.png"/>
+				       </div>
+                               </div>
 			</div>
 		</div>
 		<div class="social">
@@ -124,7 +162,7 @@
 			</div>
 		</div>
 		<div class="footer">
-			<div class="copyright-ftr">&copy; 2017 Nate Dooley | All Rights Reserved | Website in collaboration with Andrew Robinson</div>
+			<div class="copyright-ftr">&copy; 2018 Nate Dooley | All Rights Reserved</div>
 		</div>
 
 		<link rel="stylesheet" href="assets/css/main.css" type="text/css" />
