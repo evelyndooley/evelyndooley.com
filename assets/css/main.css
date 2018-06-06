@@ -366,6 +366,14 @@ textarea {
     text-shadow: 2px 2px 8px black;
 }
 
+#panel {
+    padding: 50px;
+    height: 100px;
+    width: 100px;
+    display: none;
+    position: relative;
+}
+
 .work-container {
     width: 80%;
     margin: 0 auto;
