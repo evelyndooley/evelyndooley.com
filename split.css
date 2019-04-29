@@ -77,7 +77,7 @@ body,
 p,
 a,
 a:hover {
-  color: #FF0000; }
+  color: #00ffff; }
 
 a,
 a:hover {
@@ -85,7 +85,7 @@ a:hover {
   border: none;
   border-style: none;
   box-shadow: none; }
-  
+
 
 /* -- Content -- */
 @-webkit-keyframes fadein {
@@ -170,13 +170,12 @@ body.page-template-page-fullsingle-split {
   font-size: 42px;
   line-height: 60px;
   letter-spacing: -2px; }
-.split-intro a { font-color: #FF0000; }
+.split-intro a { font-color: #00ffff; }
   .split-intro h1 {
     font-weight: 400;
     font-size: 32px;
-
     letter-spacing: 1px;
-    color: #FF0000; }
+    color: #00FFFF; }
   .split-intro p {
     padding-bottom: 28px;
   }
@@ -184,27 +183,31 @@ body.page-template-page-fullsingle-split {
     letter-spacing: 1px;
     color: #FFFFFF; }
 
+  .split-intro .tagline h2 {
+    padding-bottom: 30px;
+    line-height: 115%;
+  }
+
 .split-bio {
   padding: 0 0 40px 0;
-  font-family: 'Roboto', serif; }
+  font-family: 'Roboto', sans-serif; }
   @media (max-width: 1200px) {
     .split-bio {
       padding: 30px 0; } }
   @media (max-width: 800px) {
     .split-bio {
       padding: 20px 0; } }
-
-  .split-bio h2 {padding-top: 15px; }
-  .split-bio p {
-    color: #848d96; }
   .split-bio a {
-    color: #ff0000;}
+    color: #00ffff;}
   .split-bio a:hover {
       color: #CA486d; }
   .split-bio img {
     max-width: 50%;
     padding-bottom: 5px;
   }
+
+.split-bio .hello p { padding-bottom: 20px; }
+.split-project { padding-top: 30px; }
 
 .split-lists .split-list {
   width: 30%;
@@ -230,7 +233,7 @@ body.page-template-page-fullsingle-split {
       color: #848d96;
       transition-duration: 0.5s; }
       .split-lists .split-list ul li a:hover {
-        color: #CA486d;
+        color: #00ffff;
         transition-duration: 0.1s; }
 
 .split-credit {
