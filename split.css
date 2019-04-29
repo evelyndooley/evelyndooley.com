@@ -207,7 +207,8 @@ body.page-template-page-fullsingle-split {
   }
 
 .split-bio .hello p { padding-bottom: 20px; }
-.split-project { padding-top: 30px; }
+.split-project { padding-top: 30px; font-size: 20px;}
+.split-project a {font-family; 'Product Sans'; font-size: 24px; font-weight: 600;}
 
 .split-lists .split-list {
   width: 30%;
